@@ -1,0 +1,25 @@
+{
+  "name": "com.dipoletechi.tasklocking",
+  "version": "0.0.1",
+  "description": "This plugin used for enable and disable task locking mode",
+  "cordova": {
+    "id": "com.dipoletechi.tasklocking",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roydipoletechi/cordova-tasklocking-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Dipoletech Innovation Pvt Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roydipoletechi/cordova-tasklocking-plugin/issues"
+  },
+  "homepage": "https://github.com/roydipoletechi/cordova-tasklocking-plugin#readme"
+}

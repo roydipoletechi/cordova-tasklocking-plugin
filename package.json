@@ -1,7 +1,7 @@
 {
   "name": "com.dipoletechi.tasklocking",
   "version": "0.0.1",
-  "description": "This plugin used for enable and disable task locking mode",
+  "description": "This plugin for task locking mode for android app",
   "cordova": {
     "id": "com.dipoletechi.tasklocking",
     "platforms": [
